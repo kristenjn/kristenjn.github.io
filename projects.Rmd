@@ -24,7 +24,7 @@ pagetitle: "projects"
   * View abstracts from recently published manuscripts covering topics in spine surgery using the PubMed API
 
 * <a href="https://knicholsonphd.shinyapps.io/confidence_intervals/" target="_blank">Sample size visualization</a>
-  * Explore the effect of sample size on estimating population mean
+  * Explore the effect of sample size on estimating population mean using D3
 
 * <a href="https://knicholsonphd.shinyapps.io/mesh_api/" target="_blank">MeSH explorer</a>
   * Explore the Medical Subjects Headings (MeSH) from PubMed
