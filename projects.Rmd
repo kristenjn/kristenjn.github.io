@@ -31,3 +31,9 @@ pagetitle: "projects"
 
 * <a href="./files/datahack2020_video_sm.mp4">2020 Opioid Data Hackathon hosted by Code for Philly, DataPhilly and R-Ladies Philly</a> (video)
   * Heatmap and zipcode level maps of drug-related arrests in Philadelphia using data from OpenDataPhilly over time
+
+* <a href="./files/HSX_video.mp4">HSX Hackathon 2019</a>
+  * Video overview of app developed for a patient-facing healthcare mobile app
+  * App was presented alongside a business plan to an audience comprising of healthcare executives
+  * Developed app and business plan over the course of four days with three teammates
+  * Won first place, based on business plan, app, and presentation
