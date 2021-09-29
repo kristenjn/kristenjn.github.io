@@ -1,0 +1,109 @@
+---
+pagetitle: "publications"
+---
+
+<ol>
+<li>Divi SN, Woods BI, Goyal DKC, Galetta MS, Nicholson KJ, Dimatteo AL, Lam ME, Qureshi MA, Anderson DG, Kurd MF, Rihn JA, Kaye ID, Kepler CK, Hilibrand AS, Vaccaro AR, Radcliff KE, Schroeder GD. “Do Patients with Back Pain-Dominant Symptoms Improve After Lumbar Surgery for Radiculopathy or Claudication?” Int J Spine Surg 10.14444/8100, 2021</li>
+
+<li>Shonuga O, Nicholson K, Abboudi J, Gallant G, Jones C, Kirkpatrick W, Liss F, Takei RR, Ilyas AM “Thumb-Basal Joint Arthroplasty Outcomes and Metacarpal Subsidence: A Prospective Cohort Analysis of Trapeziectomy With Suture Button Suspensionplasty Versus Ligament Reconstruction With Tendon Interposition” HAND 10.1177/1558944721994227, 2021</li>
+
+<li>Goyal DKC, Stull JD, Divi SN, Galetta MS, Bowles DR, Nicholson KJ, Kaye ID, Woods BI, Kurd MF, Radcliff KE, Rihn JA, Anderson DG, Hilibrand AS, Kepler CK, Vaccaro AR, Schroeder GD “Combined Depression and Anxiety Influence Patient-Reported Outcomes after Lumbar Fusion” IJSS 10.14444/8008, 2021</li>
+
+<li>Skibicki H, Saini S, Rogero R, Nicholson K, Shakked RJ, Fuchs D, Winters BS, Raikin SM, Pedowitz DI, Daniel JN “Opioid Consumption Patters and Prolonged Opioid Use Among Opioid-Naïve Ankle Fracture Patients” Foot & Ankle Spec, 10.1177/1938640021992922, 2021</li>
+
+<li>Russo GS, Canseco JA, Chang M, Levy H, Nicholson K, Karamian B, Mangan J, Fang T, Vaccaro AR, Kepler CK. “A Novel Scoring System to Predict Length of Stay After Anterior Cervical Discectomy and Fusion” JAAOS, 10.5435/JAAOS-D-20-00894, 2021</li>
+
+<li>Divi SN, Bronson WH, Canseco JA, Chang M, Goyal DKC, Nicholson KJ, Mujica VE, Kaye ID, Kurd MF, Woods BI, Radcliff KE, Rihn JA, Anderson DG, Hilibrand AS, Kepler CK, Vaccaro AR, Schroeder GD “How Do C2 Tilt and C2 Slope Correlate with Patient Reported Outcomes in Patients After ACDF?” Spine J 10.1016/j.spinee.2020.10.033, 2020</li>
+
+<li>McDowell CMM, Bradian AK, Cheesman QT, Saini SS, Nicholson KJ, Tjoumakaris FP, Austin LS “The Effect of State Legislation on Opioid Prescriptions Following Arthroscopic Rotator Cuff Repair” Orthopedics 10.3928/01477447-20200928-01, 2020</li>
+
+<li>Goyal DC, Divi S, Schroeder GD, Pfeifer R, Canseco JA, Bowles DR, Nicholson KJ, Parthik P, Reyes AA, Radcliff KE, Kurd MF, Woods BI, Kaye ID, Rihn JA, Anderson DG, Hilibrand AS, Kepler CK, Harrop JS, Vaccaro AR “Development of a Telemedicine Neurological Examination for Spine Surgery: A Pilot Trial” Clin Spine Surg 10.1097/BSD.0000000000001066, 2020</li>
+
+<li>Nicholson KJ, Reyes AA, Sherman M, Divi S, Vaccaro AR “Power Analysis for Null Hypothesis Significance Testing” Clin Spine Surg 10.1097/BSD.0000000000001079, 2020</li>
+<li>Chang M, Canseco JA, Nicholson KJ, Patel N, Vaccaro AR “The Role of Machine Learning in Spine Surgery: The Future Is Now” Frontiers in Surg 10.3389/fsurg.2020.00054, 2020</li>
+
+<li>Galetta MS, Divi SN, Shapses MA, Hartman JB, Nicholson KJ, Goyal DKC, Mangan JJ, Kaye ID, Kurd MF, Woods BI, Radcliff KE, Rihn JA, Anderson DG, Hilibrand AS, Kepler CK, Vaccaro AR, Schroeder GD “Processing and Handling Cost of Single-use Versus Traditional Instrumentation for 1 Level Lumbar Fusions” Clin Spine Surg DOI 10.1097/BSD.0000000000001033, 2020</li>
+
+<li>Chang M, Russo GS, Canseco JA, Nicholson K, Sharma R, Koomson J, Vaccaro AR “Variations in Patient Satisfaction Scores Between HCAHPS and a Novel Orthopedic Practice–Specific Survey”Am J Med Qual DOI 10.1177/1062860620926710, 2020</li>
+
+<li>Goyal DKC, Divi SN, Bowles DR, Nicholson KJ, Mujica VE, Kaye ID, Kurd MF, Radcliff KE, Rihn JA, Anderson DG, Hilibrand AS, Kepler CK, Vaccaro AR, Schroeder GD “How Does Smoking Influence Patient-reported Outcomes in Patients After Lumbar Fusion?” Clin Spine Surg DOI 10.1097/BSD.0000000000001022, 2020</li>
+
+<li>Tsai J, Daniel JN, McDonald EL, Pedowitz DI, Rogero RG, Shakked RJ, Nicholson KJ, Raikin SM “High Prevalence of Degenerative Changes at the Metatarsal Head Sesamoid Articulation Found During Hallux Valgus Correction Surgery” Foot Ankle Spec DOI 10.1177/1938640020912135, 2020</li>
+
+<li>Brolin TJ, Cox RM, Horneff JG, Namdari S, Abboud JA, Nicholson K, Ramsey ML “Humeral-sided Radiographic Changes Following Reverse Total Shoulder Arthroplasty” Arch Bone Jt Surg DOI 10.22038/abjs.2019.36065.1951, 2020</li>
+
+<li>Goyal DKC, Murphy HA, Hollern DA, Srikanth DN, Nicholson K, Stawicki C, Kaye D, Schroeder GD, Woods BI, Kurd MF, Anderson DG, Kepler CK, Hilibrand AS, Vaccaro AR, Radcliff KE, “Is the Neck Disability Index an Appropriate Measure for Changes in Physical Function After Surgery for Cervical Spondylotic Myelopathy?” Int J Spine Surg DOI 10.14444/7007, 2020</li>
+
+<li>Kane LT, Fang T, Galetta MS, Goyal DKC, Nicholson KJ, Kepler CK, Vaccaro AR, Schroeder GD “Propensity Score Matching: A Statistical Method” Clin Spine Surg 10.1097/BSD.0000000000000932, 2020</li>
+
+<li>McDonald EL, Shakked R, Nicholson K, Daniel JN, Pedowitz DI, Winters BS, Rogero R, Raikin SM, “Return to Driving After Foot and Ankle Surgery: A Novel Survey to Predict Passing Brake Reaction Time” Foot Ankle Spec DOI 10.1177/1938640019890970, 2020</li>
+
+<li>Schroeder G, McKenzie J, Casper D, Mangan J, Stull J, Kepler C, Nicholson K, Kurt M, Hilibrand A, Hamadi M, Woods B, Radcliff K, Anderson D, Vaccaro A, Rihn J, “Does an Uninstrumented Level Increase the Rate of Revision Surgery in a Multilevel Posterior Cervical Decompression and Fusion?” Clin Spin Surg DOI 10.1097/BSD.0000000000000910, 2019</li>
+
+<li>Mangan JJ, Goyal DK, Divi SN, Bowles DR, Nicholson KJ, Mujica VE, Lee TJ, DePaola RV, Saline A, Fang T, Galetta MS, Kaye D, Kurd MF, Woods BI, Radcliff KE, Rihn JA, Anderson DG, Hilibrand AS, Kepler CK, Vaccaro AR, Schroeder DG, “Does Smoking Status Influence Health-Related Quality of Life Outcome Measures in Patients Undergoing ACDF?” Global Spine J DOI 10.1177/2192568219890292, 2019</li>
+
+<li>Lee TJ, Galetta MS, Nicholson KJ, Cifuentes E, Goyal DKC, Mangan JJ, Fang T, Schroeder GD, Kepler CK, Vaccaro AR, “Wearable Technology in Spine Surgery” Clin Spine Surg DOI 10.1097/BSD.0000000000000905, 2019</li>
+
+<li>McDonald EL, Daniel JN, Roggero RG, Shakked RJ, Nicholson K, Pedowitz DI, Raikin SM, Bilolikar V, Winters BS, “How Does Perioperative Ketorolac Effect Opioid Consumption and Pain Management After Ankle Fracture Surgery?” Clin Orthop Relat Res doi:  10.1097/CORR.0000000000000978, 2019</li>
+
+<li>Divi SN, Goyal Dhruv KC, Mangan JJ, Galetta MS, Nicholson KJ, Fang T, Goyal S, Booth TJ, Tarazona D, Lucasti C, Kaye ID, Kurd MF, Woods BI, Radcliff KE, Rihn, JA, Anderson DG, Hilibrand AS, Kepler CK, Vaccaro AR, Schroeder GD, “Are Outcomes of Anterior Cervical Discectomy and Fusion Influenced by Presurgical Depression Symptoms on the Mental Component Score of the Short Form-12 Survey?” Spine, DOI 10.1097/BRS.0000000000003231, 2019</li>
+
+<li>Lucasti CJ, Dworkin M, Radcliff KE, Nicholson K, Woods BI, “What Factors Predict Failure of Nonsurgical Management of a Lumbar Surgical Site Infection?” Int J Spine Surg doi: 10.14444/6032, 2019</li>
+
+<li>Rogero R, Fuchs D, Nicholson K, Shakked RJ, Winters BS, Pedowitz DI, Raikin SM, Daniel JN, “Postoperative Opioid Consumption in Opioid-Naïve Patients Undergoing Hallux Valgus Correction” Foot Ankle Int doi: 10.1177/1071100719862606, 2019</li>
+
+<li>McKenzie JC, Rogero RG, Khawam S, McDonald EL, Nicholson K, Shakked RJ, Fuchs D, Raikin SM “Incidence and Risk Factors for Pin Site Infection of Exposed Kirschner Wires Following Elective Forefoot Surgery” Foot Ankle Int doi: doi: 10.1177/1071100719855339, 2019</li>
+
+<li>Mangan JJ, Divi SN, McKenzie JC, Stull JD, Conaway W, Casper DS, Goyal DKC, Nicholson KJ, Galetta MS, Wagner SC, Kaye ID, Kurd MF, Woods BI, Radcliff KE, Rihn JA, Anderson DG, Hilibrand AS, Vaccaro AR, Schroeder GD, Kepler CK, “Proton pump inhibitor use affects pseudarthrosis rates and influences patient-reported outcomes” Global Spine Surg DOI doi.org/10.1177/2192568219853222, 2019</li>
+
+<li>Zarowin J, Warnick E, Mangan J, Nicholson K, Goyal DKC, Galetta MS, Fang T, Schroeder GD, Kepler CK, Vaccaro AR, “Is wearable technology part of the future of orthopaedic care?” Clin Spin Surg DOI 10.1097/BSD.000000000000077, 2019</li>
+
+<li>Broilin TJ, Cox RM, Horneff JG, Namdari S, Abboud JA, Nicholson K, 	Ramsey ML, “Humeral-sided radiographic changes following reverse total shoulder arthroplasty” Arch Bone & Joint Surg DOI 10.22038/ABJS.2019.36065.1951, 2019</li>
+
+<li>Schroeder GD, Hilibrand AS, Kepler CK, McKenzie JC, Nicholson KJ, Stawicki C, Paul J, Kumar P, Hollern D, Murphy H, Milhouse P, Kurd MF, Woods BI, Radcliff KE, Anderson DG, Vaccaro AR, Rihn JA “Utilization of time-driven activity-based costing to determine the true cost of a single or 2-level anterior cervical discectomy and fusion.” Clin Spine Surg DOI 10.1097/BSD.0000000000000728, 2018</li>
+
+<li>Hendy BA, McDonald EL, Nicholson K, Rogero R, Shakked R, Pedowitz DI, Raikin SM “Improvement of outcomes during the first two years following total ankle arthroplasty” J Bone Joint Surg, DOI 10.2106/JBJS.17.01021,  2018</li>
+
+<li>McDonald E, Winters B, Nicholson K, Shakked R, Raikin S, Pedowitz DI, Daniel JN “Effect of postoperative ketorolac administration on bone healing in ankle fracture surgery.” Foot & Ankle Int DOI 10.1177/1071100718782489, 2018</li>
+
+<li>Schroeder D, McKenzie JC, Casper DS, Stake S, Buschholz J, Kepler C, Rihn JA, Woods BI, Radcliff KE, Kaye ID, Nicholson K, Anderson DG, Hilibrand AS, Vaccaro AR, Khan S, Kurd MF “Descriptive analysis of associated factors for urgent versus nonurgent inpatient spine transfers to a tertiary care hospital” Am J Med Qual DOI 10.1177/1062860618776080, 2018</li>
+
+<li>Saini S, McDonald EL, Shakked R, Nicholson K, Rogero R, Chapter M, Winters BS, Pedowitz DI, Raikin SM, Daniel JN “Prospective evaluation of utilization patterns and prescribing guidelines of opioid consumption following orthopaedic foot and ankle surgery” Foot & Ankle Intl DOI 10.1177/1071100718790243, 2018, 2018</li>
+
+<li>Bell K, Warnick E, Nicholson K, Ulcoq S, Kim SJ, Schroeder GD, Vaccaro AR “Patient adoption and utilization of a web-based and mobile-based portal for collecting outcomes after elective surgery” Am J Med Qual,  DOI 10.1177/1062860618765083, 2018</li>
+
+<li>Murphy H, Warnick E, McEntee R, Nicholson K, Hollern D, Stawicki C, Tarazona D, Schroeder GD, Woods BI, Kurd MF, Rihn JA, Anderson DG, Kepler CK, Hilibrand AS, Vaccaro AR, Radcliff KE “Which domains of the ODI best predict change in physical function after surgery for degenerative lumbar spondylolisthesis?” Spine, 43(11):805-802, 2018</li>
+
+<li>Shakked R, McDonald E, Sutton R, Lynch M, Nicholson K, Raikin S "Influence of Depressive Symptoms on Hallux Valgus Surgical Outcomes” Foot & Ankle Int, DOI 10.1177/1071100718762137, 2018</li>
+
+<li>Cox BS, Jamgochian GC, Nicholson K, Wong JC, Namdari S, Abboud JA “The effectiveness of cerebral oxygenation monitoring during arthroscopic shoulder surgery in the beach-chair position: a randomized blinded study” J Shoulder Elbow Surg, 27(4):139-139, 2018</li>
+
+<li>Jarrell K, McDonald E, Shakked R, Nicholson K, Pedowitz D, Raikin SM “Combined popliteal catheter with single injection versus continuous saphenous nerve block” Foot & Ankle Intl, DOI 10.1177/10711007177443, 2018</li>
+
+<li>Schroeder GD, Boody BS, Kepler CK, Kurd MF, Silva S, Nicholson K, Wilson JR, Woods BI, Radcliff KE, Anderson DG, Hilibrand AS, Vaccaro AR, Rihn JA. “Comparing health related quality of life outcomes in patients undergoing either primary or revision anterior cervical discectomy and fusion” Spine, 10.1097/BRS.0000000000002511, 2018</li>
+
+<li>Nicholson KJ, Millhouse PW, Pflug E, Woods B, Schroeder GD, Anderson DG, Hilibrand AS, Kepler CK, Kurd MF, Rihn JA, Vaccaro AR, Radcliff KE. “Cervical sagittal range of motion as a predictor of symptom severity in cervical spondylotic myelopathy” Spine, 10.1097/BRS.0000000000002478, 2017</li>
+
+<li>Schroeder GD, Kepler C, Kurd MF, Mead L, Millhouse PW, Kumar P, Nicholson K, Stawicki C, Helber A, Fasciano D, Alpesh P, Woods B, Radcliff K, Rihn J, Anderson DG, Hilibrand AS, Vaccaro AR. “Is it necessary to extend a multilevel posterior cervical decompression and fusion to the upper thoracic spine?” Spine, 41(23)1845-1849, 2016</li>
+
+<li>Nicholson KJ, Zhang S, Gilliland T, Winkelstein BA. "Riluzole effects on behavioral sensitivity and the development of axonal damage and spinal modifications that occur after painful nerve root compression." Journal of Neurosurgery-Spine, 20(6):751-762, 2014</li>
+
+<li>Nicholson KJ, Gilliland TM, Winkelstein BA. “Upregulation of GLT-1 by treatment with ceftriaxone alleviates radicular pain by reducing spinal astrocyte activation and neuronal hyperexcitability” The Journal of Neuroscience Research, 92(1):116-129, 2014</li>
+
+<li>Smith JR, Syre PP, Oake SA, Nicholson KJ, Weisshaar CL, Cruz K, Bucki R, Baumann BC, Jamney PA, Winkelstein BA. “Salmon and human thrombin differentially regulate radicular pain, glial-induced inflammation and spinal neuronal excitability through Protease-Activated Receptor-1” PLOS One DOI 10.1371/journal.pone.0080006, 2013</li>
+
+<li>Zhang S, Nicholson KJ, Gilliland TM, Winkelstein BA. “The roles of mechanical compression and chemical irritation in regulating spinal neuronal signaling in painful cervical nerve root injury” Stapp Car Crash Journal, 2013</li>
+
+<li>Nicholson KJ, Guarino BB, Winkelstein BA. “Transient Nerve Root Compression Load and Duration Differentially Mediate Behavioral Sensitivity and Associated Spinal Astrocyte Activation and mGluR5 Expression” Neuroscience, 209:187-95, 2012</li>
+
+<li>Nicholson KJ, Winkelstein BA. “Nerve and nerve root biomechanics.” In: Neural Tissue Biomechanics. Bilston, LE, Ed., Springer-Verlag, 2011</li>
+
+<li>Nicholson KJ, Quindlen JC, Winkelstein BA. “Development of a duration threshold for modulating evoked neuronal responses after nerve root compression injury” Stapp Car Crash Journal, 55:1-24, 2011</li>
+
+<li>Dunk NM, Nicholson KJ, Winkelstein BA. “Impaired Performance on the Angle Board Test is Induced in a Model of Painful Whiplash Injury but is Only Transient in a Model of Cervical Radiculopathy” Journal of Orthopaedic Research, 29(4): 562-566, 2011</li>
+
+<li>Rothman SM, Nicholson KJ, Winkelstein BA. “Time-dependent mechanics and measures of glial and behavioral sensitivity in a rodent model of radiculopathy”  Journal of Neurotrauma, 27(5):803-814, 2010</li>
+
+<li>Klinich KD, Flannagan CAC, Nicholson K, Schneider LW, Rupp JD. “Factors associated with abdominal injury in frontal, nearside, and farside crashes” Stapp Car Crash Journal, 54:73-91, 2010</li>
+
+<li>Joganich T, Sicher L, Nicholson K, Whitman G, Butch F, Nichols C “Human factors evaluation of restraint systems for military vehicles” Proc Human Fact & Ergo Soc 51:26, 2007</li>

@@ -1,0 +1,25 @@
+---
+pagetitle: "projects"
+---
+
+
+### For ICM Philly (<a href="https://icmphilly.com" target="_blank">more info</a>)
+
+* <a href="https://pjirisk.shinyapps.io/pji_calc/" target="_blank">Calculate risk of PJI after TJA</a>
+
+* <a href="https://pjirisk.shinyapps.io/pjidx/" target="_blank">Determine liklihood that patient has PJI</a>
+
+* <a href="https://pjirisk.shinyapps.io/vte_risk_calculator/" target=_"blank">Calculate risk of VTE after TJA (note: in development)</a>
+
+* <a href="https://pjirisk.shinyapps.io/DAIR_Calculator/" target=_"blank">Calculate probability of treatment (DAIR) success</a>
+
+
+### For fun
+
+* <a href="https://knicholsonphd.shinyapps.io/spine_pubs/" target="_blank">View abstracts from recently published manuscripts covernig topics in spine surgery</a>
+
+* <a href="https://knicholsonphd.shinyapps.io/confidence_intervals/" target="_blank">Explore the effect of sample size on estimating population mean</a>
+
+* <a href="https://knicholsonphd.shinyapps.io/mesh_api/" target="_blank">Explore the Medical Subjects Headings (MeSH) from PubMed</a>
+
+

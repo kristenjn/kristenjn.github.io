@@ -2,16 +2,22 @@ name: "knicholson"
 output_dir: "."
 
 navbar:
-  title: "Kristen Nicholson"
   left:
     - text: "Home"
       href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Publications"
+      href: publications.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<kristen.nicholson@gmail.com>
     - icon: fa-github fa-lg
       href: https://github.com/kristenjn/
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?hl=en&user=D8N8P0EAAAAJ
 output:
   html_document:
-    them: darkly
-  
+    theme: paper
+    include:
+      after_body: footer.html
