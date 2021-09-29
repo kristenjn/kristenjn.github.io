@@ -1,0 +1,16 @@
+name: "knicholson"
+
+navbar:
+  title: "Kristen Nicholson"
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<kristen.nicholson@gmail.com>
+    - icon: fa-github fa-lg
+      href: https://github.com/kristenjn/
+output:
+  html_document:
+    them: darkly
+  
