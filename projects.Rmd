@@ -22,4 +22,5 @@ pagetitle: "projects"
 
 * <a href="https://knicholsonphd.shinyapps.io/mesh_api/" target="_blank">Explore the Medical Subjects Headings (MeSH) from PubMed</a>
 
+* <a href="./files/datahack2020_video.mp4">Datahack 2020 hosted by Data Science Philly and R Ladies Philly</a>
 

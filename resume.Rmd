@@ -1,0 +1,60 @@
+---
+pagetitle: "resume"
+---
+
+### Professional experience
+
+#### Research Scientist/Medical Writer, Spine Surgery, Rothman Institute (2014-current)
+* Co-author on 50+ peer-reviewed manuscripts, responsible for data analysis/statistics and editing
+* Developed research protocols for prospective and retrospective studies, including IRB materials
+* Submitted a patent application for a remote patient monitoring system
+* Developed internal reporting, graphical tools to cross-reference EHR and patient-reported data
+
+#### Doctoral Candidate, Spine Pain Research Lab, Beth Winkelstein Ph.D., Univ. of Pennsylvania (2008-2013)
+* Defined the involvement of tissue mechanics and neurochemical signaling in CNS-mediate pain
+* Mentored and trained undergraduate and graduate students in immunohistochemical and electrophysiological skills
+ 
+#### Biomechanical Engineer, ARCCA Forensic Engineering, Penns Park, PA (2006-2008)
+* Investigated biomechanical factors to evaluate injury causation in vehicular and work place accidents
+* Created written reports to support expert witness testimony 
+* Conducted site inspections and kinematic tests to evaluate human factors in the context of product safety
+
+### Consultant/contract
+
+#### Mindset Medical
+* Created workflows and application designs for remote patient monitoring via passive and active data collection
+* Developed prospective clinical trial protocols for evaluating remote patient monitoring tools
+
+#### Veracuity
+
+* Developed scripts for automating collection, mining, and summarizing social media posts in Python and R
+* Created PostgreSQL schema of tables, stored procedures, stored functions for hosting/analyzing social medial data
+* Created an artificial intelligence classifier in Tensorflow to identify social media posts related to pharmaceutical drugs
+
+#### International Consensus Meeting (ICM) Philly
+* Created and deployed three online calculators (R Shiny) for orthopaedic surgeons, available on ICM website and app
+* Editor for <a href="https://icmphilly.com/paper-of-the-week/" target="_blank">a weekly blog covering the latest research in surgical site infections</a>
+* Maintain content on the mobile app and website, report monthly Google Analytics metrics (users, views, clicks)
+
+### Education
+
+* PhD, Bioengineering, University of Pennsylvania (2013)
+* MS, Biomedical engineering, University of Michigan (2005)
+* BS, Biomedical engineering, University of Rochester (2004)
+
+### Honors & awards
+* 1st Place, HSX Hackathon, for design and business plan of a patient-facing healthcare mobile app	2019 <a href="./files/HSX_video.mp4">(view video of app)</a>
+* Nominated for Roger A. Mann award for outstanding clinical paper, AOFAS Annual Meeting	2018
+* Best clinical paper, Cervical Spine Research Society Annual meeting	2017
+* Best paper finalist, NASS Annual Meeting	2016
+* Best basic science paper, Cervical Spine Research Society Annual Meeting	2013
+* 2nd Place, Stapp Car Crash Conference Student Paper Competition	2011
+* Honorable Mention, NSF Graduate Research Fellowship	2009
+
+### Skills & interests
+
+* Programming: R, Python, Matlab 
+* Interactive visualization: R Shiny, Grafana, Superset, D3
+* Advanced statistics: predictive models, training and tuning machine learning models
+* Data management: PostgresQL, mongoDB
+* Deep learning: Tensorflow, natural language processing
