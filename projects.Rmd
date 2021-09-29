@@ -3,24 +3,31 @@ pagetitle: "projects"
 ---
 
 
-### For ICM Philly (<a href="https://icmphilly.com" target="_blank">more info</a>)
+### ICM Philly projects
 
-* <a href="https://pjirisk.shinyapps.io/pji_calc/" target="_blank">Calculate risk of PJI after TJA</a>
+* <a href="https://pjirisk.shinyapps.io/pji_calc/" target="_blank">PJI Risk Calculator</a>
+  * Calculates the risk of periprosthetic joint infection after total joint arthroplasty using a regression model
 
-* <a href="https://pjirisk.shinyapps.io/pjidx/" target="_blank">Determine liklihood that patient has PJI</a>
+* <a href="https://pjirisk.shinyapps.io/pjidx/" target="_blank">PJIDx</a>
+  * Determines liklihood that patient has an infection using the algorithm developed by ICM
 
-* <a href="https://pjirisk.shinyapps.io/vte_risk_calculator/" target=_"blank">Calculate risk of VTE after TJA (note: in development)</a>
+* <a href="https://pjirisk.shinyapps.io/vte_risk_calculator/" target=_"blank">VTE Risk Calculator</a> <i>(in development)</i>
+  * Calculates risk of venous thromboembolism, deep vein thrombosis, and/or major bleeding event after TJA using lasso regression (glmnet library) and eXtreme gradient boosting (xgboost library)
 
-* <a href="https://pjirisk.shinyapps.io/DAIR_Calculator/" target=_"blank">Calculate probability of treatment (DAIR) success</a>
+* <a href="https://pjirisk.shinyapps.io/DAIR_Calculator/" target=_"blank">DAIR Success Calculator</a>
+  * Calculate probability of successfully treating PJI with debridement and implant retention (DAIR) using a random forest model
 
 
-### For fun
+### Projects for fun
 
-* <a href="https://knicholsonphd.shinyapps.io/spine_pubs/" target="_blank">View abstracts from recently published manuscripts covernig topics in spine surgery</a>
+* <a href="https://knicholsonphd.shinyapps.io/spine_pubs/" target="_blank">Recent publications (spine surgery-related)</a>
+  * View abstracts from recently published manuscripts covering topics in spine surgery using the PubMed API
 
-* <a href="https://knicholsonphd.shinyapps.io/confidence_intervals/" target="_blank">Explore the effect of sample size on estimating population mean</a>
+* <a href="https://knicholsonphd.shinyapps.io/confidence_intervals/" target="_blank">Sample size visualization</a>
+  * Explore the effect of sample size on estimating population mean
 
-* <a href="https://knicholsonphd.shinyapps.io/mesh_api/" target="_blank">Explore the Medical Subjects Headings (MeSH) from PubMed</a>
+* <a href="https://knicholsonphd.shinyapps.io/mesh_api/" target="_blank">MeSH explorer</a>
+  * Explore the Medical Subjects Headings (MeSH) from PubMed
 
-* <a href="./files/datahack2020_video.mp4">Datahack 2020 hosted by Data Science Philly and R Ladies Philly</a>
-
+* <a href="./files/datahack2020_video_sm.mp4">2020 Opioid Data Hackathon hosted by Code for Philly, DataPhilly and R-Ladies Philly</a> (video)
+  * Heatmap and zipcode level maps of drug-related arrests in Philadelphia using data from OpenDataPhilly over time
