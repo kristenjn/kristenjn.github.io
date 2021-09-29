@@ -1,4 +1,5 @@
 name: "knicholson"
+output_dir: "."
 
 navbar:
   title: "Kristen Nicholson"
