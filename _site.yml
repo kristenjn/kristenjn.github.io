@@ -2,6 +2,7 @@ name: "knicholson"
 output_dir: "."
 
 navbar:
+  title: "Kristen Nicholson PhD"
   left:
     - text: "Home"
       href: index.html
@@ -23,3 +24,4 @@ output:
     theme: paper
     include:
       after_body: footer.html
+    css: files/styles.css

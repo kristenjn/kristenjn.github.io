@@ -1,0 +1,34 @@
+body {
+  font-size: 14px;
+}
+
+.main-container {
+  max-width: 100% !important;
+}
+
+.navbar > .container {
+  width: 100% !important;
+}
+
+.footer {
+  position: relative;
+  z-index: 2;
+  box-sizing: border-box;
+  background-color: #212121;  /* light black */
+  color: #626262;  /* darker grey */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4% 4%;
+  margin-top: 7em;
+  box-shadow: 0px 3px 50px 0px rgba(43,45,66,0.4);
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 14px;
+  width: 100%;
+}
+
+
+#scrollTop {
+  color: #FFFFFF!important; /* white */
+}

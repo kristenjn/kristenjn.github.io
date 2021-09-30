@@ -107,3 +107,4 @@ pagetitle: "publications"
 <li>Klinich KD, Flannagan CAC, Nicholson K, Schneider LW, Rupp JD. “Factors associated with abdominal injury in frontal, nearside, and farside crashes” Stapp Car Crash Journal, 54:73-91, 2010</li>
 
 <li>Joganich T, Sicher L, Nicholson K, Whitman G, Butch F, Nichols C “Human factors evaluation of restraint systems for military vehicles” Proc Human Fact & Ergo Soc 51:26, 2007</li>
+</ol>

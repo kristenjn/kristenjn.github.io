@@ -7,7 +7,7 @@ pagetitle: "resume"
 #### Research Scientist/Medical Writer, Spine Surgery, Rothman Institute (2014-current)
 * Co-author on 50+ peer-reviewed manuscripts, responsible for data analysis/statistics and editing
 * Developed research protocols for prospective and retrospective studies, including IRB materials
-* Submitted a patent application for a remote patient monitoring system
+* Submitted a patent application for a remote patient monitoring system (<a href="https://patents.google.com/patent/US20190019578" target="_blank">application 20190019578</a>)
 * Developed internal reporting, graphical tools to cross-reference EHR and patient-reported data
 
 #### Doctoral Candidate, Spine Pain Research Lab, Beth Winkelstein Ph.D., Univ. of Pennsylvania (2008-2013)
@@ -54,7 +54,7 @@ pagetitle: "resume"
 ### Skills & interests
 
 * Programming: R, Python, Matlab 
-* Interactive visualization: R Shiny, Grafana, Superset, D3
+* Interactive visualization: R Shiny, <a href="./files/grafana covid vaccine 2021_09_29.png">Grafana</a>, <a href = "./files/Twitter_ Summary9_29_202.png">Superset</a>, <a href="https://knicholsonphd.shinyapps.io/confidence_intervals/" target="_blank">D3</a>
 * Advanced statistics: predictive models, training and tuning machine learning models
 * Data management: PostgresQL, mongoDB
 * Deep learning: Tensorflow, natural language processing
